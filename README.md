@@ -6,8 +6,7 @@ This is a simple Spring Boot project on JAVA demonstrating the basics of handlin
 
 SCREENSHOT:
 
-I have a screenshot that displays my greeting page with my picture ("SpringBootProject\screenshot\greeting page.jpg")
-
----
+I have a screenshot that displays my greeting page with my picture
+![Project Screenshot](screenshot/greeting.jpg)
 
 Student: Ersultan Ismailov 70662
